@@ -1,1 +1,1 @@
-# Olympics_Project
+# Cleaning Olympics Data in SQL for Power BI Dashboard
